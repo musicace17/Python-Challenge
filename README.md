@@ -5,7 +5,7 @@
 
 # # External help credit
 
-Had help from ChatGPT to learn how to find the index of a max or min function's result. This is used in PyBank/main.py line 58 & 63
+Had help from ChatGPT to learn how to find the index of a max or min function's result. This is used in PyBank/main.py line 58 & 63.
 
 Found an article from geeksforgeeks on converting a list of string values into integers using the the "eval" function. This is used in PyBank/main.py line 35.
 
