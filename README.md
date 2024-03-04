@@ -3,7 +3,7 @@
 *Created 2 python scripts to read the contents of their respective csv contents and provide analysis within a terminal and output the analysis to a text file.*
 
 
-# # External help credit
+## External help credit
 
 Had help from ChatGPT to learn how to find the index of a max or min function's result. This is used in PyBank/main.py line 58 & 63.
 
